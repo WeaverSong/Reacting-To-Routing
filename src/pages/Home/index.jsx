@@ -27,6 +27,8 @@ export default function Home ({setLocation}) {
                 Sorry about the wallpaper problems. My device isn't the greatest, so I didn't think that it might cause performance issues, since I didn't encounter any.
                 <br/><br/>
                 Also, I know you mentioned that I had set things up in the last lab in such a way that it would make it easier for me in this one, but the instructions seemed to make it clear that I wasn't supposed to build off the previous lab, but rather make it completely anew.
+                <br/><br/>
+                Also, is there some flag or way to stop create-react-app from initializing it as a git repo? That actually makes it slightly harder to push to github. (Okay, not by much, but I like being lazy where I can :) )
             </InfoBody>
         </InfoBox>
     );
